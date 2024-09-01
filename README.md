@@ -8,4 +8,13 @@
 
 [Тестовый прогон](https://github.com/ZzzYouth/docs/blob/main/G8%2Brun%2BSergey_Davis_2024_08_25.pdf)
 
+[Чек-лист для тестирования корзины и оплаты](https://docs.google.com/spreadsheets/d/1BeMEUCIuJw953xzFAecsttinMqmZ3eF-n22S8-99a4g/edit?gid=1881426248#gid=1881426248)
+
+[Тест-кейсы на основании проверок из чек-листа для корзины и оплаты в формате PDF](https://github.com/ZzzYouth/docs/blob/main/gase-SergeyDavis.pdf)
+
+[Тест-кейсы на основании проверок из чек-листа для корзины и оплаты в QASE](https://app.qase.io/project/G8?author=238&previewMode=side&suite=181)
+
+
+
+
  
